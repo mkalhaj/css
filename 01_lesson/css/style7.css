@@ -20,7 +20,8 @@
   }
 
   a:hover, a:focus {
-    /* color: hsl(189, 44%, 49%); */
+    color: hsl(189, 44%, 49%);
+    background: gold; 
     
   }
 
